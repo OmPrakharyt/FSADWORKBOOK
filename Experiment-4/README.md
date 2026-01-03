@@ -1,38 +1,27 @@
-\# Experiment 4 – Spring Dependency Injection
+# Experiment 4 – Spring Dependency Injection
 
-
-
-\## Aim
+## Aim
 
 To demonstrate Constructor Injection and Setter Injection using Spring Framework.
 
-
-
-\## Description
+## Description
 
 This experiment demonstrates Dependency Injection using:
 
-1\. XML Configuration
+1. XML Configuration
 
-2\. Annotation Configuration
+2. Annotation Configuration
 
+## Tools Used
 
+- Java
 
-\## Tools Used
+- Spring Core
 
-\- Java
+- Maven
 
-\- Spring Core
+- Eclipse IDE
 
-\- Maven
-
-\- Eclipse IDE
-
-
-
-\## Result
+## Result
 
 Student object values are successfully injected using Spring IoC container.
-
-
-
