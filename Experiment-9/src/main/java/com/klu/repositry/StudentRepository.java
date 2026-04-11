@@ -1,0 +1,7 @@
+package com.klu.repositry;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import com.klu.model.Student;
+public interface StudentRepository extends JpaRepository<Student,Integer>{
+
+}

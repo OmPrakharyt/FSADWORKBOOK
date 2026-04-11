@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+}

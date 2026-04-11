@@ -1,0 +1,33 @@
+.container{
+  width:700px;
+  margin:auto;
+  text-align:center;
+  font-family:Arial;
+}
+
+.form input{
+  margin:5px;
+  padding:8px;
+}
+
+button{
+  padding:8px 12px;
+  background:#007bff;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
+
+table{
+  width:100%;
+  margin-top:20px;
+  border-collapse:collapse;
+}
+
+table,th,td{
+  border:1px solid #ddd;
+}
+
+th,td{
+  padding:10px;
+}
